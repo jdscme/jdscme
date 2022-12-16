@@ -1,5 +1,11 @@
 - :bookmark_tabs: [Currículo](https://jdsc.me/cv.pdf)
 - :blue_book: [Linkedin](https://www.linkedin.com/in/jdscme/)
+- :family: Família
+- :diamonds: Amigos
+- :notes: Música
+- :running: Corrida
+- :cocktail: Whisky
+- :smile:
 - :black_nib: [32 tecnologias para uma PoC de Microsserviços](https://jdsc.me/ms-poc/)
 - :black_nib: [7 milhões de usuários impactados por esse software](https://jdsc.me/7m/)
 - :black_nib: [141 milhões de usuários impactados por esse software](https://jdsc.me/141m/)
