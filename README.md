@@ -2,7 +2,7 @@
 - :family: Família
 - :smile: Amigos
 - :musical_note: Música
-- :chocolate_bar: Doce
+- :bike: Bicicleta
 - :running: Corrida
 - :cocktail: Whisky
 -
