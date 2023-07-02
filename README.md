@@ -2,8 +2,8 @@
 - :family: Família
 - :smile: Amigos
 - :musical_note: Música
+- :chocolate_bar: Chocolate
 - :bike: Bicicleta
-- :running: Corrida
 - :cocktail: Whisky
 -
 - :bookmark_tabs: [Currículo](https://jdsc.me/cv.pdf)
