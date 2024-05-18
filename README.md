@@ -10,6 +10,7 @@
 - :bookmark_tabs: [Linkedin](https://www.linkedin.com/in/jdscme/)
 -
 - :black_nib: [42 recomendações de livros de TI](https://jdsc.me/42-livros/)
+- :black_nib: [3 lições atuando como Arquiteto de Soluções, Corporativo e Líder Técnico]([https://jdsc.me/42-livros/](https://jdsc.me/3-licoes/))
 - :black_nib: [8 observações de uma grande solução de dados na GCP](https://jdsc.me/8-gcp/)
 - :black_nib: [Arquitetura e Engenharia para maturidade da TI](https://jdsc.me/mat/)
 - :black_nib: [32 tecnologias para uma PoC de Microsserviços](https://jdsc.me/ms-poc/)
